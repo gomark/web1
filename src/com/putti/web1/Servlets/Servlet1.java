@@ -1,4 +1,4 @@
-package com.putti.web1.Servlet1;
+package com.putti.web1.Servlets;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
