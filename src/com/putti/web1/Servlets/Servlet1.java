@@ -27,8 +27,8 @@ public class Servlet1 extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().append("Hello world, I will be at KBTG next week - Served at: ").append(request.getContextPath());
-		System.out.println("write something here:" + java.net.InetAddress.getLocalHost().getHostName());
+		response.getWriter().append("XXX Hello world, I will be at KBTG next week - Served at: ").append(request.getContextPath());
+		System.out.println("YYY write something here:" + java.net.InetAddress.getLocalHost().getHostName());
 	}
 
 	/**
